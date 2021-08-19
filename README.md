@@ -1,5 +1,9 @@
 ### UnityiOSLeaderboard 🏆
+Simple script to have a leaderboard in your iOS Unity app.
 
+### Setup
+
+### Code
 ```csharp
 
 using UnityEngine;
