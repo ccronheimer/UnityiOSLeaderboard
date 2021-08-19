@@ -111,7 +111,7 @@ public class iOSLeaderboard : MonoBehaviour
                 }
                 else
                 {
-                    // unsuccesscful
+                    // unsuccessful
                 }
                
             });
