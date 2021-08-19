@@ -2,6 +2,9 @@
 Simple script to have a leaderboard in your iOS Unity app.
 
 ### Setup
+Get your leaderboard ID from your App Store Connect profile for your app. 
+
+![lbid](img.png)
 
 ### Code
 ```csharp
